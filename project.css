@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #898763;
+    box-sizing: border-box;
+}
+h2{
+    color: tomato;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.navbar{
+    color: #7ca9f8;
+    background: rgb(161, 11, 151);
+}

@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #7ca9f8;
+    box-sizing: border-box;
+    
+}
+h2{
+    color: tomato;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.navbar{
+    color: #7ca9f8;
+    background: rgb(2, 52, 9);
+}
+.card{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    
+    
+}
+.card .card-header{
+    color: black;
+    background: rgb(227, 32, 244);
+}
+.card .card-body{
+    color: rgb(103, 240, 17);
+    background: #366bd5;
+}
